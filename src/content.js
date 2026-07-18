@@ -125,7 +125,7 @@ export const SOCIALS = {
   items: [
     {
       id: "facebook", label: "FACEBOOK", role: "LEADER", handle: "@yourname",
-      href: "https://www.facebook.com/khanhtoan.phan.165", icon: "🙌", barIcon: icon1,
+      href: "", icon: "🙌", barIcon: icon1,
       newBars: [0], counts: ["56"],
       links: [],
       stats: [
